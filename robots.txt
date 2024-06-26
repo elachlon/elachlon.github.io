@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elachlon.github.io/sitemap
+Sitemap: https://elachlon.github.io/app/sitemap
+Sitemap: https://elachlon.github.io/assets/sitemap
+Sitemap: https://elachlon.github.io/css/sitemap
+Sitemap: https://elachlon.github.io/includes/sitemap
+Sitemap: https://elachlon.github.io/item/sitemap
+Sitemap: https://elachlon.github.io/src/sitemap
